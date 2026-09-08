@@ -30,7 +30,7 @@ sesuai dokumentasi/kebutuhan bisnis>
 <Jelaskan apa yang sebenarnya terjadi atau kesalahan yang
 muncul di sistem saat ini>
 ## CLASSIFICATION & IMPACT
-*Severity:* [ Critical / Major / Minor / Trivial ]
+*Severity:* [Critical / Major / Minor / Trivial]
 *Priority:* [ P1 / P2 / P3 / P4 ]
 *Status:* [Needs-Triage, Todo, Active / In Progress, Ready
 for QA, Closed, Rejected]
